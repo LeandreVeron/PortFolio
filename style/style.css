@@ -74,7 +74,7 @@
     
 }
 .header--main:before{
-    background-image: url(../img/Header_Image.jpg);
+    background-image: url(../img/Header_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
